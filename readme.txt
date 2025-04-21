@@ -1,3 +1,5 @@
+Для того чтобы скрипты успешно работали для начала нужно сбросить их все в папку с датасетами, то есть в telecom1000k
+
 Должны быть установленные библиотеки:
 pip install pandas datetime glob os multiprocessing functools traceback csv collections
 Для запуска программы нужно ввести команды соответственно:
